@@ -1,2 +1,2 @@
-# WorldQuant-Capstone-MScFe690-Iteration-2
+# WorldQuant-Capstone-MScFe690-Iteration2
 Capstone project for MScFE from WorldQuant University (Group 9184)
