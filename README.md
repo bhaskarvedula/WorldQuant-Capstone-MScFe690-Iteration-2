@@ -1,4 +1,4 @@
-# WorldQuant-Capstone-MScFe690-Iteration 2
+# WorldQuant-Capstone-MScFe690-Iteration2
 Capstone project for MScFE from WorldQuant University (Group 9184). Analysis carried out on another time period 2017-2020.
 # DynaCAAST-Framework-for-RL-based-trading-agents
 This is a project carried out for capstone required for completing MScFE from WorldQuant University (Group 9184). We repeat the entire exercise carried out earlier for 2021-2025 timeframe for 2017-2020 as well to confirm the efficacy of our models and DynaCAAST framework. 
